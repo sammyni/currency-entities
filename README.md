@@ -1,0 +1,1 @@
+# Currencies HTML Entities
